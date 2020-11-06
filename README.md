@@ -2,7 +2,7 @@
 
 Given an image, This project generates a textual description.
 
-Image captioning requires to recognize the important objects, their attributes and their relationships in an image. It also needs to generate syntactically
+Image captioning requires to recognize the important objects, their attributes and their relationships in images. It also needs to generate syntactically
 and semantically correct sentences. Deep learning-based techniques are capable of handling the complexities and challenges of image captioning. 
 
 # Dataset
